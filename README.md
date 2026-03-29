@@ -25,7 +25,7 @@ View all 249 config items (agents, commands, skills, context files) in one place
 
 ```bash
 # Clone into your project or any directory
-git clone <repo-url> opencode.config
+git clone https://github.com/iqzap/opencode.config.git opencode.config
 cd opencode.config
 
 # Install dependencies
